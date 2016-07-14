@@ -1,15 +1,15 @@
-==================================================================                                                                   
-https://keybase.io/benediktg                                                                                                         
---------------------------------------------------------------------                                                                 
-                                                                                                                                     
-I hereby claim:                                                                                                                      
-                                                                                                                                     
-  * I am an admin of http://benediktgeissler.de                                                                                      
-  * I am benediktg (https://keybase.io/benediktg) on keybase.                                                                        
-  * I have a public key ASC-3aiwI0iPSxAFZH0FVFMDwIBMPp1FnwdZJgMOVJ6z0Ao                                                              
-                                                                                                                                     
-To do so, I am signing this object:                                                                                                  
-                                                                                                                                     
+==================================================================
+https://keybase.io/benediktg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.benediktgeissler.de
+  * I am benediktg (https://keybase.io/benediktg) on keybase.
+  * I have a public key ASC-3aiwI0iPSxAFZH0FVFMDwIBMPp1FnwdZJgMOVJ6z0Ao
+
+To do so, I am signing this object:
+
 {
     "body": {
         "key": {
@@ -20,7 +20,7 @@ To do so, I am signing this object:
             "username": "benediktg"
         },
         "service": {
-            "hostname": "benediktgeissler.de",
+            "hostname": "www.benediktgeissler.de",
             "protocol": "http:"
         },
         "type": "web_service_binding",
@@ -30,21 +30,21 @@ To do so, I am signing this object:
         "name": "keybase.io go client",
         "version": "1.0.16"
     },
-    "ctime": 1468464366,
+    "ctime": 1468464487,
     "expire_in": 504576000,
     "merkle_root": {
-        "ctime": 1468464262,
-        "hash": "9c3f8408653c010e95de9d714e7e6844cbb11e437bfe8f501e16a4c0527beec6484081020c0bd12b6456223440f295171f480befb79197817d713b5408b94a7a",
-        "seqno": 522607
+        "ctime": 1468464366,
+        "hash": "84ecfffb918c2f9dcecfa509832c798321971bfa5c683c229d6a19ade747a7e34e9ebee6d18fd74c92f632ad199756c865eddf50a887f2c104ca995c0b0630b9",
+        "seqno": 522609
     },
-    "prev": "e9d1bec4b05bad3f761aa229aba4b9765b82819eeb6b87e19c2598754309f3df",
-    "seqno": 40,
+    "prev": "147a9c71e26182de093a000944cb384821f22c90cfe6522f303a0dbe6cd10c26",
+    "seqno": 41,
     "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgvt2osCNIj0sQBWR9BVRTA8CATD6dRZ8HWSYDDlSes9AKp3BheWxvYWTFAvx7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYTYwYjJkMWQyYTI0YzdkODdlZDQ4YTFiNjIxZTBmNTU1NTYxZTIyOGFiMmMyOWY0YmZhODA2MmYxMWI5YzUxMDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYmVkZGE4YjAyMzQ4OGY0YjEwMDU2NDdkMDU1NDUzMDNjMDgwNGMzZTlkNDU5ZjA3NTkyNjAzMGU1NDllYjNkMDBhIiwidWlkIjoiOWQ3MWNjNmEwNDc2YmYxMDhiMzY1YzQ4ZGI4Y2ZlMTkiLCJ1c2VybmFtZSI6ImJlbmVkaWt0ZyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiYmVuZWRpa3RnZWlzc2xlci5kZSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTYifSwiY3RpbWUiOjE0Njg0NjQzNjYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ2ODQ2NDI2MiwiaGFzaCI6IjljM2Y4NDA4NjUzYzAxMGU5NWRlOWQ3MTRlN2U2ODQ0Y2JiMTFlNDM3YmZlOGY1MDFlMTZhNGMwNTI3YmVlYzY0ODQwODEwMjBjMGJkMTJiNjQ1NjIyMzQ0MGYyOTUxNzFmNDgwYmVmYjc5MTk3ODE3ZDcxM2I1NDA4Yjk0YTdhIiwic2Vxbm8iOjUyMjYwN30sInByZXYiOiJlOWQxYmVjNGIwNWJhZDNmNzYxYWEyMjlhYmE0Yjk3NjViODI4MTllZWI2Yjg3ZTE5YzI1OTg3NTQzMDlmM2RmIiwic2Vxbm8iOjQwLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQKFTMAgBv+rfg0K/q8w+vX1AbYT5yrVfhAtlNl1b+FoTcfHwptriVd4rEOXbg0oNjvh+gjRkmQhJReX0+Ua0ow+oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAP1m7OOsa+oBOrw5hszzHH3iEGBkBU9XB3HRMG+Y0NpKN0YWfNAgKndmVyc2lvbgE=
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgvt2osCNIj0sQBWR9BVRTA8CATD6dRZ8HWSYDDlSes9AKp3BheWxvYWTFAwB7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYTYwYjJkMWQyYTI0YzdkODdlZDQ4YTFiNjIxZTBmNTU1NTYxZTIyOGFiMmMyOWY0YmZhODA2MmYxMWI5YzUxMDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYmVkZGE4YjAyMzQ4OGY0YjEwMDU2NDdkMDU1NDUzMDNjMDgwNGMzZTlkNDU5ZjA3NTkyNjAzMGU1NDllYjNkMDBhIiwidWlkIjoiOWQ3MWNjNmEwNDc2YmYxMDhiMzY1YzQ4ZGI4Y2ZlMTkiLCJ1c2VybmFtZSI6ImJlbmVkaWt0ZyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3LmJlbmVkaWt0Z2Vpc3NsZXIuZGUiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE2In0sImN0aW1lIjoxNDY4NDY0NDg3LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0Njg0NjQzNjYsImhhc2giOiI4NGVjZmZmYjkxOGMyZjlkY2VjZmE1MDk4MzJjNzk4MzIxOTcxYmZhNWM2ODNjMjI5ZDZhMTlhZGU3NDdhN2UzNGU5ZWJlZTZkMThmZDc0YzkyZjYzMmFkMTk5NzU2Yzg2NWVkZGY1MGE4ODdmMmMxMDRjYTk5NWMwYjA2MzBiOSIsInNlcW5vIjo1MjI2MDl9LCJwcmV2IjoiMTQ3YTljNzFlMjYxODJkZTA5M2EwMDA5NDRjYjM4NDgyMWYyMmM5MGNmZTY1MjJmMzAzYTBkYmU2Y2QxMGMyNiIsInNlcW5vIjo0MSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECe37S2NdWiq2S2n7bMMHg2Jm+tXnbOFTol7kkHky+MPSjtr4UenVc03kiO6QhapQUQ7+/iM35pqHg6LaBJv60HqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgac0/VPsp24LvdNI7UbKvp3fFgk1kFiCLQD2NDVcuhk2jdGFnzQICp3ZlcnNpb24B
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
