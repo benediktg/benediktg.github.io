@@ -1,0 +1,54 @@
+==================================================================                                                                   
+https://keybase.io/benediktg                                                                                                         
+--------------------------------------------------------------------                                                                 
+                                                                                                                                     
+I hereby claim:                                                                                                                      
+                                                                                                                                     
+  * I am an admin of http://benediktgeissler.de                                                                                      
+  * I am benediktg (https://keybase.io/benediktg) on keybase.                                                                        
+  * I have a public key ASC-3aiwI0iPSxAFZH0FVFMDwIBMPp1FnwdZJgMOVJ6z0Ao                                                              
+                                                                                                                                     
+To do so, I am signing this object:                                                                                                  
+                                                                                                                                     
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120a60b2d1d2a24c7d87ed48a1b621e0f555561e228ab2c29f4bfa8062f11b9c5100a",
+            "host": "keybase.io",
+            "kid": "0120bedda8b023488f4b1005647d05545303c0804c3e9d459f075926030e549eb3d00a",
+            "uid": "9d71cc6a0476bf108b365c48db8cfe19",
+            "username": "benediktg"
+        },
+        "service": {
+            "hostname": "benediktgeissler.de",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1468464366,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1468464262,
+        "hash": "9c3f8408653c010e95de9d714e7e6844cbb11e437bfe8f501e16a4c0527beec6484081020c0bd12b6456223440f295171f480befb79197817d713b5408b94a7a",
+        "seqno": 522607
+    },
+    "prev": "e9d1bec4b05bad3f761aa229aba4b9765b82819eeb6b87e19c2598754309f3df",
+    "seqno": 40,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgvt2osCNIj0sQBWR9BVRTA8CATD6dRZ8HWSYDDlSes9AKp3BheWxvYWTFAvx7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYTYwYjJkMWQyYTI0YzdkODdlZDQ4YTFiNjIxZTBmNTU1NTYxZTIyOGFiMmMyOWY0YmZhODA2MmYxMWI5YzUxMDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYmVkZGE4YjAyMzQ4OGY0YjEwMDU2NDdkMDU1NDUzMDNjMDgwNGMzZTlkNDU5ZjA3NTkyNjAzMGU1NDllYjNkMDBhIiwidWlkIjoiOWQ3MWNjNmEwNDc2YmYxMDhiMzY1YzQ4ZGI4Y2ZlMTkiLCJ1c2VybmFtZSI6ImJlbmVkaWt0ZyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiYmVuZWRpa3RnZWlzc2xlci5kZSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTYifSwiY3RpbWUiOjE0Njg0NjQzNjYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ2ODQ2NDI2MiwiaGFzaCI6IjljM2Y4NDA4NjUzYzAxMGU5NWRlOWQ3MTRlN2U2ODQ0Y2JiMTFlNDM3YmZlOGY1MDFlMTZhNGMwNTI3YmVlYzY0ODQwODEwMjBjMGJkMTJiNjQ1NjIyMzQ0MGYyOTUxNzFmNDgwYmVmYjc5MTk3ODE3ZDcxM2I1NDA4Yjk0YTdhIiwic2Vxbm8iOjUyMjYwN30sInByZXYiOiJlOWQxYmVjNGIwNWJhZDNmNzYxYWEyMjlhYmE0Yjk3NjViODI4MTllZWI2Yjg3ZTE5YzI1OTg3NTQzMDlmM2RmIiwic2Vxbm8iOjQwLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQKFTMAgBv+rfg0K/q8w+vX1AbYT5yrVfhAtlNl1b+FoTcfHwptriVd4rEOXbg0oNjvh+gjRkmQhJReX0+Ua0ow+oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAP1m7OOsa+oBOrw5hszzHH3iEGBkBU9XB3HRMG+Y0NpKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/benediktg
+
+==================================================================
