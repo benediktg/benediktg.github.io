@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/benediktg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.benediktgeissler.de
+  * I am benediktg (https://keybase.io/benediktg) on keybase.
+  * I have a public key with fingerprint FDFB 1418 A3A0 BFF5 C6C6  CDA0 660A BEDC 816E D480
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120a60b2d1d2a24c7d87ed48a1b621e0f555561e228ab2c29f4bfa8062f11b9c5100a",
+            "fingerprint": "fdfb1418a3a0bff5c6c6cda0660abedc816ed480",
+            "host": "keybase.io",
+            "key_id": "660abedc816ed480",
+            "kid": "0101b75f0be3d9190967f8a8dfb64b6ccbc7862de935db349cb93e4a645b71a9c5080a",
+            "uid": "9d71cc6a0476bf108b365c48db8cfe19",
+            "username": "benediktg"
+        },
+        "service": {
+            "hostname": "www.benediktgeissler.de",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1473075448,
+    "expire_in": 157680000,
+    "prev": "5a95084d089cdcd54d4da2db2c3f2a0ff9531db87d56f32ab932ded093c88b16",
+    "seqno": 49,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtUltoFUcYPsd4bLxb9BQjxsuilYQQZ3ZnZ2dPaSV4x6hQBfHFda5xPcfdk7Nr
+YoxpEWttRIKKooiKD6KiLfgiRfpU1BZbq8SgD+IFFY2XeIGCPkQOzh7UJ/95GObn
++7//+/75d4+uSlWndy7Yusb6efiP6X+fstSq/1ZXdRosFB1GrtPIy8olC0JGsZf3
+hZEzADQBxYCZAgqTmog7gjhSIEIhwyaUQNk6MJSmSSgzuekqxBQlAJsKQuZyGwJA
+jQZD+UGLLBVLfhBrWiUUgwgSalHAlLI51kdQgDGgTApOIE6aAF24LoySCi2O0Ug2
++qHO6YdXkfcZ/EfdADLHVoBJS7jQBS52FKFE98WIYc4Zdwg2hXQtWzALuZy5lkQU
+I5s5kGrdgFR0b6zQucKBnGMKkIOZgoAwC9scEcEIVxK6CTCSpYBukBrNZCCFn49b
+jK4GQ6fbfC6TySZWPkDa29sbP8GkH0UFWWoUUvMUS2Ec8rCgQeviuJhLOOKOYqVI
+Mu8Dncf8QOiR6oI2WYr8MDByUCN57Cf8EDkWcGyESIMhNxX9kvT8BGE7mAAdSRsp
+2jSnTV1tFQlAXC64sJFAgppCf6WlTAqUcm0LapuOsLGyTKrHpKcmgGtxQhjERuKw
+NQiNHHK1UNqiOSO/JaDxxpI0ukZ0pycPTaWrU8MyQ5JtS40YPu7jCmbvflGePut2
+0/FldZP+fH2557vbA8/31ffymuaOa03ZF9vqs9PGXh7MfNU3ePXKpvTvZ3esjk7H
+bg3uh8/6r6iVrfl7XqfX0/emf2351MCRd2MP/HKj4+Qfe9jjmWfqqo+PejRsyZSn
+xmavHOa2fPu2zC7N2fL6vL8hw/cvX5FZ/+5h/8H6rbtHZpfOnDx45tnU5oXeuRnX
+f+rdxRtqux5ei+aNO1L1W/7YwMCNb2oH5zb/9Y9ROz/7an7r/9tDoOoWT/r+Tt/o
+Q41rDvfMyZwNeofkra+Pzu5+MF5tuz5r5OGd9xdd/HXCtNM3C/dOHLyZNW+93Ptl
++cLaldnCjidjJnbbzam/Zy/9QTXRmvc=
+=eESa
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/benediktg
+
+==================================================================
