@@ -13,18 +13,16 @@ Options All
 
 */srv/www/htdocs/owncloud/config/config.php*
 ```php
-"apps_paths" => array(
-    array(
+'apps_paths' => [
+    [
         'path'=> '/srv/www/htdocs/owncloud/apps',
         'url' => '/apps',
         'writable' => false,
-    ),
-    array(
+    ], [
         'path'=> '/home/benedikt9/Projekte/URZ',
         'url' => '/apps2',
         'writable' => true,
-    ),
-),
-
+    ],
+],
 'memcache.local' => '\OC\Memcache\APCu',
 ```
