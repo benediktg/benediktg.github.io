@@ -11,7 +11,7 @@ AllowOverride All
 Options All
 ```
 
-*/srv/www/htdocs/nextcloud/config/config.php*
+*/srv/www/htdocs/owncloud/config/config.php*
 ```php
 "apps_paths" => array(
     array(
