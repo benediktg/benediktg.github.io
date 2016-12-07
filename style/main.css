@@ -1,0 +1,24 @@
+@font-face {
+    font-family: oxygensans;
+    src: url(../fonts/Oxygen-Sans.ttf);
+}
+
+@font-face {
+    font-family: hackmono;
+    src: url(../fonts/Hack-Regular.ttf);
+}
+
+body {
+    font-family: "Oxygen-Sans", oxygensans, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    text-align: center;
+}
+
+.fingerprint {
+    font-family: "Hack", hackmono, monospace;
+}
+
+.secondary {
+    color: grey;
+}
