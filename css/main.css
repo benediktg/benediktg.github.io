@@ -1,10 +1,12 @@
 @font-face {
     font-family: oxygensans;
+    font-display: fallback;
     src: url(fonts/Oxygen-Sans_gWQKnw1WJX4Ac4R2veHB.ttf);
 }
 
 @font-face {
     font-family: hackmono;
+    font-display: fallback;
     src: url(fonts/Hack-Regular_6WScYnCmJjPHkbcuNhlP.ttf);
 }
 
@@ -15,7 +17,7 @@ body {
     text-align: center;
 }
 
-.fingerprint {
+code {
     font-family: "Hack", hackmono, monospace;
 }
 
