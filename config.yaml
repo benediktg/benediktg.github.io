@@ -12,11 +12,30 @@ minify:
   disableXML: true
   minifyOutput: true
 
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    disable: true
+  instagram:
+    simple: true
+  twitter:
+    enableDNT: true
+    simple: true
+  vimeo:
+    enableDNT: true
+  youtube:
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "Benedikt Geißler"
-  description: "Benedikts Webseite"
-  keywords: [Homepage, persönlich]
   author: "Benedikt Geißler"
   # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "8. Februar 2022"
@@ -37,8 +56,8 @@ params:
   tocopen: false
 
   assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
+    disableHLJS: true # to disable highlight.js
+    disableFingerprinting: true
     favicon: "/favicon.ico"
     #favicon16x16: "<link / abs url>"
     #favicon32x32: "<link / abs url>"
@@ -56,17 +75,12 @@ params:
     imageUrl: "/profilbild.jpg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: Profilbild
     buttons:
       - name: Posts
         url: posts
       - name: Tags
         url: tags
-
-  # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
 
   socialIcons:
     - name: twitter
@@ -74,16 +88,27 @@ params:
     - name: github
       url: "https://github.com/benediktg"
 
-  analytics:
-    google:
-      SiteVerificationTag: ""
-    yandex:
-      SiteVerificationTag: ""
-
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
+
+  comments:
+    provider: giscus
+    commentable:
+      post: true
+      page: false
+    giscus:
+      repo: benediktg/benediktg.github.io
+      repo_id: MDEwOlJlcG9zaXRvcnk2MDYxNzQwOA==
+      category: Announcements
+      category_id: DIC_kwDOA5zywM4CBEjS
+      mapping: pathname
+      reactions_enabled: 1
+      edit_metadata: 0
+      input_position: top
+      theme: light
+      lang: de
 
   editPost:
     URL: "https://github.com/benediktg/benediktg.github.io"
@@ -100,6 +125,7 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+
 menu:
   main:
     - identifier: categories
@@ -110,6 +136,7 @@ menu:
       name: tags
       url: /tags/
       weight: 20
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
