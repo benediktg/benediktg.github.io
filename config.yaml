@@ -110,11 +110,6 @@ params:
       theme: preferred_color_scheme
       lang: de
 
-  editPost:
-    URL: "https://github.com/benediktg/benediktg.github.io/tree/master"
-    Text: "Änderungen vorschlagen" # edit text
-    appendFilePath: true # to append file path to Edit link
-
   # for search
   # https://fusejs.io/api/options.html
   fuseOpts:
