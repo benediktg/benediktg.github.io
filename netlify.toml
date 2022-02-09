@@ -1,20 +1,7 @@
 [build]
   publish = "public/"
-  command = "hugo"
+  command = "hugo --minify"
   environment = { HUGO_VERSION = "0.92.1" }
-
-  [build.processing]
-    skip_processing = false
-    css = { bundle = true, minify = true}
-    js = { bundle = true, minify = true}
-    html = { pretty_urls = true }
-    images = { compress = true }
-
-  [context.deploy-preview.processing]
-    skip_processing = true
-
-[[plugins]]
-  package = "@netlify/plugin-lighthouse"
 
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
