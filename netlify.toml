@@ -7,7 +7,7 @@
     skip_processing = false
     css = { bundle = true, minify = true}
     js = { bundle = true, minify = true}
-    html = { pretty_urls = false }
+    html = { pretty_urls = true }
     images = { compress = true }
 
   [context.deploy-preview.processing]
@@ -15,6 +15,8 @@
 
 [[plugins]]
   package = "@netlify/plugin-lighthouse"
+
+[[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
 
 [[headers]]
