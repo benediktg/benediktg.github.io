@@ -2,6 +2,7 @@ baseURL: "https://benediktgeissler.de/"
 languageCode: de
 title: "Benedikt Geißler"
 theme: PaperMod
+defaultContentLanguage: de
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -38,18 +39,16 @@ params:
   title: "Benedikt Geißler"
   author: "Benedikt Geißler"
   # images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "02.01.2006"
+  DateFormat: "2. January 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
-  ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
   hidemeta: false
   hideSummary: false
   showtoc: false
@@ -77,10 +76,10 @@ params:
     imageHeight: 120
     imageTitle: Profilbild
     buttons:
-      - name: Posts
-        url: posts
+      - name: Beiträge
+        url: /posts/
       - name: Tags
-        url: tags
+        url: /tags/
 
   socialIcons:
     - name: github
@@ -92,23 +91,6 @@ params:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
-
-  comments:
-    provider: giscus
-    commentable:
-      post: true
-      page: false
-    giscus:
-      repo: benediktg/benediktg.github.io
-      repo_id: MDEwOlJlcG9zaXRvcnk2MDYxNzQwOA==
-      category: Announcements
-      category_id: DIC_kwDOA5zywM4CBEjS
-      mapping: pathname
-      reactions_enabled: 1
-      edit_metadata: 0
-      input_position: top
-      theme: preferred_color_scheme
-      lang: de
 
   # for search
   # https://fusejs.io/api/options.html
@@ -124,11 +106,11 @@ params:
 menu:
   main:
     - identifier: categories
-      name: categories
+      name: Kategorien
       url: /categories/
       weight: 10
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
 
