@@ -1,6 +1,6 @@
 [build]
   publish = "public/"
-  command = "hugo --minify"
+  command = "hugo --minify -b netlify.benediktgeissler.de"
   environment = { HUGO_VERSION = "0.92.1" }
 
 [[plugins]]
