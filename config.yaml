@@ -81,6 +81,10 @@ params:
       url: "https://github.com/benediktg"
     - name: twitter
       url: "https://twitter.com/benediktg5"
+    - name: mastodon
+      url: "https://social.tchncs.de/@benediktg5"
+    - name: instagram
+      url: "https://www.instagram.com/benediktg5/"
 
   cover:
     hidden: true # hide everywhere but not in structured data

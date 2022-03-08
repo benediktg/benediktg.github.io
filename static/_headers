@@ -1,0 +1,9 @@
+/*
+  referrer-policy: strict-origin-when-cross-origin
+  strict-transport-security: max-age=31536000
+  x-content-type-options: nosniff
+  x-frame-options: sameorigin
+  x-xss-protection: 1; mode=block
+  cache-control: public
+  cache-control: max-age=31536000
+  permissions-policy: interest-cohort=()
