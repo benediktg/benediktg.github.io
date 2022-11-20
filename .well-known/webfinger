@@ -1,0 +1,23 @@
+{
+    "subject": "acct:benediktg5@social.tchncs.de",
+    "aliases": [
+        "https://social.tchncs.de/@benediktg5",
+        "https://social.tchncs.de/users/benediktg5"
+    ],
+    "links": [
+        {
+            "rel": "http://webfinger.net/rel/profile-page",
+            "type": "text/html",
+            "href": "https://social.tchncs.de/@benediktg5"
+        },
+        {
+            "rel": "self",
+            "type": "application/activity+json",
+            "href": "https://social.tchncs.de/users/benediktg5"
+        },
+        {
+            "rel": "http://ostatus.org/schema/1.0/subscribe",
+            "template": "https://social.tchncs.de/authorize_interaction?uri={uri}"
+        }
+    ]
+}
