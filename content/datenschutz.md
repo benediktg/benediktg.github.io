@@ -47,17 +47,11 @@ Stand: 9. Februar 2022
 
 ## Verantwortlicher {#m3}
 
-Benedikt Geißler\
-Straße Usti nad Labem 95\
-09119 Chemnitz
+Benedikt Geißler
 
 E-Mail-Adresse:
 
 kontakt {at} benediktgeissler {punkt} de
-
-Impressum:
-
-[https://benediktgeissler.de/impressum/](https://benediktgeissler.de/impressum/)
 
 ## Übersicht der Verarbeitungen {#mOverview}
 
