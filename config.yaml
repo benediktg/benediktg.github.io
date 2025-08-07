@@ -79,8 +79,6 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/benediktg"
-    - name: twitter
-      url: "https://twitter.com/benediktg5"
     - name: mastodon
       url: "https://social.tchncs.de/@benediktg5"
     - name: instagram
